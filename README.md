@@ -31,8 +31,8 @@ Program structure
 
 ```bash
 C:\Users\anish\PycharmProjects\stock_LSTM
-├── AIcandy_LSTM_model_hdbhkibl.py
-├── AIcandy_LSTM_train_emabpupv.py
+├── LSTM_model.py
+├── LSTM_train.py
 ├── history_price.csv
 └── requirements.txt
 ```
