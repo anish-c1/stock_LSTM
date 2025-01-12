@@ -34,7 +34,7 @@ C:\Users\anish\PycharmProjects\stock_LSTM
 ├── LSTM_model.py
 ├── LSTM_train.py
 ├── history_price.csv
-└── requirements.txt
+└── requirements.txt 
 ```
 Environment settings
 
