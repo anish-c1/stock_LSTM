@@ -1,7 +1,7 @@
 
 # stock_LSTM
 
-A brief description of what this project does and who it's for
+This project aims to predict the next day's stock price given past/historical data. Currently, the program predicts the price of TM stock for 12/28/2024. If you want to change the stock/date that is predicted, upload your own history_price.csv file.
 
 
 ## Run Locally
